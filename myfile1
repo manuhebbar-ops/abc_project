@@ -1,3 +1,5 @@
 total 4
+
+ressolve push
 -rw-r--r--. 1 ec2-user ec2-user 31 Jul  3 13:00 README.md
 -rw-r--r--. 1 ec2-user ec2-user  0 Jul  3 13:05 myfile1
